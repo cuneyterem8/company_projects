@@ -20,20 +20,20 @@ Demurrage & Detention Tool
     </td>
   </tr>
 </table>
-<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool3.jpeg?raw=true">
-<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool4.jpeg?raw=true" width="100%">
-<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool5.jpeg?raw=true" width="100%">
-<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool6.jpeg?raw=true" width="100%">
-<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool7.jpeg?raw=true" width="100%">
-<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool8.jpeg?raw=true" width="100%">
-<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool9.jpeg?raw=true" width="100%">
-<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool10.jpeg?raw=true" width="100%">
-<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool11.jpeg?raw=true" width="100%">
-<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool12.jpeg?raw=true" width="100%">
-<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool13.jpeg?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool3.png?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool4.png?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool5.png?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool6.png?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool7.png?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool8.png?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool9.png?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool10.png?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool11.png?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool12.png?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool13.png?raw=true" width="100%">
 
 Oneview.ai Media Add Tool
 
-<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/add_tool1.jpeg?raw=true" width="100%">
-<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/add_tool2.jpeg?raw=true" width="100%">
-<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/add_tool3.jpeg?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/add_tool1.png?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/add_tool2.png?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/add_tool3.png?raw=true" width="100%">
