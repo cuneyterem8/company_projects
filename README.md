@@ -3,6 +3,13 @@
 
 # Haier Europe
 
+- Haier Europe is the 3rd largest white appliance company in the world. I worked for the Italy HQ office
+- Engineered and productionised deep‑learning demand‑forecast models (AutoGluon, AWS SageMaker) to predict the next 12 months of sales for 26 countries, delivering a 20 % accuracy gain versus the prior baseline (55% AI forecast better in sku level)
+- Engineered and deployed an AI-powered Demurrage & Detention platform, awarded at the Haier Europe Leadership Conference 2026 and used across 20+ European countries, automating previously manual logistics processes through LLM-based AI agents, RAG, SQL generation, automated Excel reporting, multi-source data integration, and intelligent invoice processing for 70+ users. Built daily storage, demurrage, and detention cost calculations and an OCR + regex + AI-based PDF invoice validation pipeline to detect potential overcharges and reduce port and carrier costs.
+- Engineered a paid-media and stock-monitoring platform for marketing teams across 20+ European countries, linking product availability with active advertising campaigns to automatically alert users when advertised SKUs become out of stock. Built plan vs. actual vs. budget dashboards and ad-spend management workflows to improve campaign control and reduce wasted media spend.
+
+Demurrage & Detention Tool
+
 <table>
   <tr>
     <td width="59%">
@@ -13,5 +20,20 @@
     </td>
   </tr>
 </table>
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool3.jpeg?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool4.jpeg?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool5.jpeg?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool6.jpeg?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool7.jpeg?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool8.jpeg?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool9.jpeg?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool10.jpeg?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool11.jpeg?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool12.jpeg?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool13.jpeg?raw=true" width="100%">
 
-Theis one of the largest research-based universities in the world. The THE ranking is [89]
+Oneview.ai Media Add Tool
+
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/add_tool1.jpeg?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/add_tool2.jpeg?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/add_tool3.jpeg?raw=true" width="100%">
