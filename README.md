@@ -27,12 +27,22 @@ Demurrage & Detention Tool
 <img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool7.png?raw=true" width="100%">
 <img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool8.png?raw=true" width="100%">
 <img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool9.png?raw=true" width="100%">
-<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool10.png?raw=true" width="100%">
-<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool11.png?raw=true" width="100%">
+<table>
+  <tr>
+    <td width="59%">
+      <img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool10.png?raw=true" width="100%">
+    </td>
+    <td width="41%">
+      <img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool11.png?raw=true" width="100%">
+    </td>
+  </tr>
+</table>
 <img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool12.png?raw=true" width="100%">
 <img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool13.png?raw=true" width="100%">
 
+<br></br>
 Oneview.ai Media Add Tool
+<br></br>
 
 <img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/add_tool1.png?raw=true" width="100%">
 <img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/add_tool2.png?raw=true" width="100%">
