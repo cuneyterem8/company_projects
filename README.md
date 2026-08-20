@@ -20,7 +20,7 @@ Demurrage & Detention Tool
     </td>
   </tr>
 </table>
-<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool3.jpeg?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool3.jpeg?raw=true">
 <img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool4.jpeg?raw=true" width="100%">
 <img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool5.jpeg?raw=true" width="100%">
 <img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool6.jpeg?raw=true" width="100%">
