@@ -5,10 +5,10 @@
 
 <table>
   <tr>
-    <td width="55%">
+    <td width="57%">
       <img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool1.jpeg?raw=true" width="100%">
     </td>
-    <td width="45%">
+    <td width="43%">
       <img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool2.jpeg?raw=true" width="100%">
     </td>
   </tr>
