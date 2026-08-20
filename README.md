@@ -20,11 +20,6 @@ Demurrage & Detention Tool
     </td>
   </tr>
 </table>
-<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool3.png?raw=true" width="100%">
-<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool4.png?raw=true" width="100%">
-<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool5.png?raw=true" width="100%">
-<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool6.png?raw=true" width="100%">
-<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool7.png?raw=true" width="100%">
 <img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool8.png?raw=true" width="100%">
 <img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool9.png?raw=true" width="100%">
 <table>
@@ -37,11 +32,20 @@ Demurrage & Detention Tool
     </td>
   </tr>
 </table>
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool3.png?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool4.png?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool5.png?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool6.png?raw=true" width="100%">
+<img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool7.png?raw=true" width="100%">
 <img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool12.png?raw=true" width="100%">
 <img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/dd_tool13.png?raw=true" width="100%">
 
 <br>
+<br>
+
 Oneview.ai Media Add Tool
+
+<br>
 <br>
 
 <img src="https://github.com/cuneyterem8/company_projects/blob/main/github_images/add_tool1.png?raw=true" width="100%">
